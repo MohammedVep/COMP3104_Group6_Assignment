@@ -1,0 +1,2 @@
+This course is designed to help you focus on managing dev operations and deployment 
+of development activities.
