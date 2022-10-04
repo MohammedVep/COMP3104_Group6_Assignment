@@ -3,4 +3,7 @@ of development activities. Dev Operations are used in may ways to help reduce IT
 overhead and get products delivered to customers on time, on schedule and on budget. 
 Dev ops also improve communication and collaboration across teams and they are used 
 to remove manual tasks both of mundane or complex nature. Devops allow automated 
-deployment of many web applications 
+deployment of many web applications. In order to drive innovation in connected 
+society quickly and effectively when people do not like to go anywhere and not 
+everyone is interested in hanging out, dev ops has been more important than ever 
+before.  
