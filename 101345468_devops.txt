@@ -1,2 +1,6 @@
 This course is designed to help you focus on managing dev operations and deployment 
-of development activities.
+of development activities. Dev Operations are used in may ways to help reduce IT 
+overhead and get products delivered to customers on time, on schedule and on budget. 
+Dev ops also improve communication and collaboration across teams and they are used 
+to remove manual tasks both of mundane or complex nature. Devops allow automated 
+deployment of many web applications 
