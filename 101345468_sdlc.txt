@@ -1,2 +1,4 @@
 DEVOPS is very important for anyone who is interested in updating applications and 
-driving innovation quickly and effectively. 
+driving innovation quickly and effectively. When we use dev ops, its very important to 
+utilize it to help accelerating the project lifecycle while supporting security and 
+compliance.  
