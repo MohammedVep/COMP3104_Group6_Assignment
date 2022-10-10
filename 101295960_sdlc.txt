@@ -1,2 +1,3 @@
 Increased communication and collaboration in an organization is one of the key cultural aspects of DevOps.
 The use of DevOps tooling and automation of the software delivery process establishes collaboration by physically bringing together the workflows and responsibilities of development and operations.
+Software Development Life Cycle (SDLC) is a process used by the software industry to design, develop and test high quality softwares.
