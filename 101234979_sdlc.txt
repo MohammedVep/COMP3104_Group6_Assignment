@@ -3,4 +3,5 @@ software development lifecycle.So,me of the reasons it is important are:
 
 -smaller developoer lifecycle
 -more working together and meeting with you dev team
-
+- less failling code during production and improved recovery speed
+- more secure development of aaplication
