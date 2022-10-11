@@ -1,3 +1,10 @@
 Devops is what connects the worlds of IT and software developing. 
 The word devops itself combines the two words of development and operations and aims to efficiently software development processes. 
 SDLC stand for Software development life cycle and make software production as efficient as possible.
+SDLC has 6 stages in its cycle
+-planning
+-analysis
+-design
+-implementation
+-testing
+-maintenance
