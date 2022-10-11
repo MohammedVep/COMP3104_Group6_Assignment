@@ -1,0 +1,1 @@
+Devops uses the course id Comp3104 and is taught by Priteshkumar Patel at George Brown College. It focuses on teaching devops practices and tools in the industry.
