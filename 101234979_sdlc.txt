@@ -1,2 +1,6 @@
 There is a huge importance in learning devops in the 
-software development lifecycle.
+software development lifecycle.So,me of the reasons it is important are:
+
+-smaller developoer lifecycle
+-more working together and meeting with you dev team
+
